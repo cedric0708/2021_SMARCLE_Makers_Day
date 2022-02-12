@@ -3,9 +3,11 @@
 ### Theme
 #### 블루투스를 이용한 휠체어 리프트
 
-<img src = "https://user-images.githubusercontent.com/81175672/130350063-79ad78b3-b0bb-43f8-a260-92c57e709300.jpg" width="40%" height="40%">     <회로 프로토타입 모습>                
+![KakaoTalk_20220212_235527521](https://user-images.githubusercontent.com/81212131/153716366-78f2483e-fef6-4e2f-bbdc-79b468b29783.jpg)
+     <완성된 외관>                
 <img src ="https://user-images.githubusercontent.com/81175672/130350128-f1015db5-0223-44e0-8633-81e7aa73a8cb.png" width="40%" height="40%">
-<리프트 조작 앱 모습>
+
+<리프트 조작 앱>
 
 ### 리프트 상승 시스템 구현
                           
@@ -15,8 +17,9 @@
 
 ### 휠체어 3d 디자인
                 
-<img src="https://user-images.githubusercontent.com/81175672/130421272-74d4ed4f-88d2-4074-8ebb-d15bab9f052e.jpg" width="40%" height="40%">  
-[휠체어 3d 모델](https://github.com/RyuJungSoo/2021_smarcle_makers_day/tree/main/3d_model/wheelchair "project link")                     
+![KakaoTalk_20220212_235615812](https://user-images.githubusercontent.com/81212131/153716397-8e08833a-2262-4f0f-8055-ee6c4c057677.jpg)
+ 
+<휠체어 3d 모델>                  
 
 
  
