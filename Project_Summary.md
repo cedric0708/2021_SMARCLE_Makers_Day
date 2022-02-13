@@ -1,7 +1,7 @@
 # Project Summary
 
-### Theme
-#### 블루투스를 이용한 휠체어 리프트
+## Theme
+### 블루투스를 이용한 휠체어 리프트
 
 ![KakaoTalk_20220212_235527521](https://user-images.githubusercontent.com/81212131/153716366-78f2483e-fef6-4e2f-bbdc-79b468b29783.jpg)
      <완성된 외관>                
