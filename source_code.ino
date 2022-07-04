@@ -1,6 +1,6 @@
-# Smarcle Makers Day Arduino Project
-### 휠체어 리프트 기어드 모터 소스코드                 
-```ino
+**Smarcle Makers Day Arduino Project
+**휠체어 리프트 기어드 모터 소스코드                 
+
 // 기어드 모터 코드
  #include <SoftwareSerial.h>         //Software Serial Port
    #define RxD 9 
@@ -107,10 +107,10 @@ void loop() {
 
 
 // i 값을 조절하면 정지 시간을 조절할 수 있습니다.
-```
 
-### 휠체어 리프트 고정대&차단바 소스코드 
-```ino
+
+** 휠체어 리프트 고정대&차단바 소스코드 
+
 // 고정대&차단바 코드
 #include<Servo.h>
 #include <SoftwareSerial.h>
@@ -180,4 +180,4 @@ void loop(){
   
  
 }
-```
+
